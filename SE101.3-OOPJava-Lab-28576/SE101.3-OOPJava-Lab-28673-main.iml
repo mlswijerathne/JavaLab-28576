@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Lab10" isTestSource="false" packagePrefix="com.mycompany.q1" />
+      <sourceFolder url="file://$MODULE_DIR$/Lab1_Prac01Q01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lab1_Prac01Q02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lab2_Prac01Q03" isTestSource="false" packagePrefix="com.mycompany.q03" />
+      <sourceFolder url="file://$MODULE_DIR$/Lab2_Prac01Q04" isTestSource="false" packagePrefix="com.mycompany.q04" />
+      <sourceFolder url="file://$MODULE_DIR$/Lab2_Prac01Q05" isTestSource="false" packagePrefix="com.mycompany.q05" />
+      <sourceFolder url="file://$MODULE_DIR$/Lab2_Prac01Q06" isTestSource="false" packagePrefix="com.mycompany.q06" />
+      <sourceFolder url="file://$MODULE_DIR$/Lab6" isTestSource="false" packagePrefix="com.mycompany.labquestion1" />
+      <sourceFolder url="file://$MODULE_DIR$/Lab7" isTestSource="false" packagePrefix="com.mycompany.exceptionhandling" />
+      <sourceFolder url="file://$MODULE_DIR$/Lab8_GUIQuestion01" isTestSource="false" packagePrefix="com.mycompany.lab_guipractical01" />
+      <sourceFolder url="file://$MODULE_DIR$/Lab9_GUIQuestion02" isTestSource="false" packagePrefix="com.mycompany.lab_guipractical02" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
